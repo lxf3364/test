@@ -7,4 +7,11 @@
 
 """
 这是为了测试git而创建的文件。
+
 """
+
+import os
+
+os.getcwd()
+
+os.chdir(os.getcwd()+'../../')
